@@ -13,4 +13,4 @@
 *    A function is called by specifying its name followed by zero or more arguments inside parentheses, like this: texts(), mult(3, 4), len(text1).
 
   
-![dialogue workflow](]http://www.nltk.org/images/dialogue.png)  
+![dialogue workflow](http://www.nltk.org/images/dialogue.png)  

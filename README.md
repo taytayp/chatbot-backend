@@ -15,3 +15,7 @@ Back end alludes to butt stuff, which is funny.
   - User starts with a competent but banal chatbot
   - Uploads personal logs to create personality
   - Can refine and train that personality, or give custom personality choices
+
+## Current Objectives
+1. Source public chatlog data
+2. Decision on algorithims to create initial bot

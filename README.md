@@ -3,11 +3,20 @@ Back end alludes to butt stuff, which is funny.
 
 ## Install 
 
-`git clone <repo> <target-dir> # Clone the repo` 
-`virtualenv chatbot # Create a virtual environment for python`
-`cd <target-dir> # Make sure you're in the project directory`
-`source ./chatbot/bin/activate # Start the virtualenv`
-`pip install -r requirements.txt # Install the project requirements in virtualenv`
+*Clone the repo*
+`git clone <repo> <target-dir>` 
+
+*Create a virtual environment for python*
+`virtualenv chatbot`
+
+*Make sure you're in the project directory*
+`cd <target-dir>`
+
+*Start the virtualenv*
+`source ./chatbot/bin/activate`
+
+*Install the project requirements in virtualenv*
+`pip install -r requirements.txt`
 
 
 ## References

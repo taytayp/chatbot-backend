@@ -7,27 +7,13 @@ Back end alludes to butt stuff, which is funny.
 
 `git clone <repo> <target-dir>` 
 
-*Create a virtual environment for python*
+*Docker build and run test file, for now*
 
-`virtualenv chatbot`
-
-*Make sure you're in the project directory*
-
-`cd <target-dir>`
-
-*Start the virtualenv*
-
-`source ./chatbot/bin/activate`
-
-*Install the project requirements in virtualenv*
-
-`pip install -r requirements.txt`
-
-### Docker build and run
-
-For working with the `Dockerfile`
 `docker build -t hello_worm .`
+
 `docker run hello_worm`
+
+**TODO: Set up docker build with real program reqs**
 
 ## References
 [Building a simple chatbot in python using nltk](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e)  

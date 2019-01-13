@@ -28,7 +28,7 @@ Back end alludes to butt stuff, which is funny.
 [Building a simple chatbot in python using nltk](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e)  
 [NLTK Book](http://www.nltk.org/book)  
 [Machine learning algorithms](https://towardsdatascience.com/types-of-machine-learning-algorithms-you-should-know-953a08248861)  
-  
+[Levenshtein Distance](https://www.python-course.eu/levenshtein_distance.php)  
   
 ## Schedule and Plans
 - Early January

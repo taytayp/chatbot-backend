@@ -23,6 +23,11 @@ Back end alludes to butt stuff, which is funny.
 
 `pip install -r requirements.txt`
 
+### Docker build and run
+
+For working with the `Dockerfile`
+`docker build -t hello_worm .`
+`docker run hello_worm`
 
 ## References
 [Building a simple chatbot in python using nltk](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e)  

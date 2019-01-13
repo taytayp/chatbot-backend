@@ -11,3 +11,7 @@ Back end alludes to butt stuff, which is funny.
 - Early January
   - Review machine learning fundamentals, seek applications in chatbot and chat inputs
   - Finalize starter front-end for interfacing with Python script
+- Mid-Jan
+  - User starts with a competent but banal chatbot
+  - Uploads personal logs to create personality
+  - Can refine and train that personality, or give custom personality choices

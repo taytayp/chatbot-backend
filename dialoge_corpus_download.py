@@ -6,6 +6,8 @@ from nltk.corpus import nps_chat
 
 for i in nps_chat.words():
     print("Raw word: " + i)
-    print("Token: " + nltk.word_tokenize(i)[0])
+    token = nltk.word_tokenize(i)[0]
+    print("Token: " + token)
+    print("Tag: " + nltk.post_tag(token))
     print("---")
     time.sleep(.5)

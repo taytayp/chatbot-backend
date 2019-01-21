@@ -8,6 +8,5 @@ for i in nps_chat.words():
     print("Raw word: " + i)
     token = nltk.word_tokenize(i)[0]
     print("Token: " + token)
-    print("Tag: " + nltk.post_tag(token))
     print("---")
     time.sleep(.5)
